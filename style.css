@@ -1,3 +1,29 @@
+body
+{
+font-family: 'Henny Penny', cursive;
+background: rgb(255, 232, 201);
+}
+.header_div
+{
+    background: whitesmoke;
+    color: tomato;
+}
+.header_div p
+{
+font-family: 'Permanent Marker', cursive;
+color: black;
+letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+.main_div button
+{
+    font-family: 'Architects Daughter', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
 .copy_right_footer
 {
     position: fixed;
@@ -5,4 +31,8 @@
     bottom: 0;
     width: 100%;
     background-color: black;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px blue;
 }
